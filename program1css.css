@@ -1,0 +1,14 @@
+html{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ title{
+    background-color: black;
+    color: aqua;
+ }
+body {
+   color: rgb(217, 227, 18);
+   background-image: url(https://www.massey.ac.nz/massey/fms/Web%20office/explore/hero%20research%20images/hero-mechatronics.jpg);
+    background-size: cover;
+    
+}
